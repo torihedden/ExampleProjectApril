@@ -1,0 +1,9 @@
+h1 {
+  color: green;
+  background-color: pink;
+  font-family: sans-serif;
+}
+
+p {
+  border: solid 3px blue;
+}
